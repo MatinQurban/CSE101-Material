@@ -1,0 +1,9 @@
+# Spec file for extractMax, in BinHeap tests of CSE101, WInter 2020
+#
+#################
+c1: make
+e1: heapwrapper
+p1: ./heapwrapper
+t1: simple-input.txt
+o1: student-output.txt
+i1: simple-output.txt

@@ -1,0 +1,15 @@
+i 40
+i 20
+i 60
+ppre
+w
+i 10
+i 30
+ppre
+w
+i 50
+ppre
+w
+i 70
+ppre
+w
