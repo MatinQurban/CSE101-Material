@@ -1,0 +1,9 @@
+# Spec file for StackRecursion tests of CSE101, WInter 2020
+#
+#################
+c1: make
+e1: stackrecursion
+p1: ./stackrecursion
+t1: simple-input.txt
+o1: student-output.txt
+i1: simple-output.txt
