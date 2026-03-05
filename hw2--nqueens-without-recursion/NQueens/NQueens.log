@@ -1,0 +1,16 @@
+Checker passed. Start with 0.0 points.
+=================================
+first test passed
+second test passed
+third test passed
+fourth test passed
+Solution has failed on an input. You need to corrcet your code and/or consider more edge cases.
+For input: 6 2 4 4 1
+Your output file says: No solution
+But there is a solution: 1 2 2 4 3 6 4 1 5 3 6 5 
+
+FAIL
+
+===========================================
+Final score
+70
